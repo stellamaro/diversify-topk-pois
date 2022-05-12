@@ -1,8 +1,3 @@
-/**
- * @file
- * Implementation of exact algorithm.
- */
-
 #include "lp.hpp"
 #include "../util/commons.hpp"
 #include "../util/constants.hpp"

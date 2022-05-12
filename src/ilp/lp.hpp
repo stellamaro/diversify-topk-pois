@@ -1,10 +1,3 @@
-/**
- * @file
- * Defining of Exact algorithm, a naive enumerating algorithm to solve
- * the Socially Diverse k-Nearest Neighbours query.
- * This algorithm doesn't use any preprocess.
- */
-
 #ifndef POPULAR_LP
 #define POPULAR_LP
 

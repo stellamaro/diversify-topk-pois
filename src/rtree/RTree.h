@@ -1,3 +1,5 @@
+// https://github.com/nushoin/RTree
+
 #ifndef RTREE_H
 #define RTREE_H
 
